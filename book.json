@@ -1,0 +1,24 @@
+{
+    "title": "Gitlab征服指南",
+    "description": "Gitlab优秀学习资源汇总",
+    "language": "zh",
+    "plugins": [
+        "page-toc",
+        "splitter",
+        "github-buttons",
+        "duoshuo"
+    ],
+    "pluginsConfig": {
+        "duoshuo": {
+            "short_name": "mastergitlab",
+            "theme": "default"
+        },
+        "github-buttons": {
+            "repo": "MasterStudio/MasterGitlab",
+            "types": [
+                "star"
+            ],
+            "size": "small"
+        }
+    }
+}
